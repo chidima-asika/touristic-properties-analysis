@@ -1,3 +1,4 @@
 home_rental_data/Ireland/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 home_rental_data/Los[[:space:]]Angeles/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 home_rental_data/Lisbon/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
+home_rental_data/Malaga/calendar.csv filter=lfs diff=lfs merge=lfs -text
