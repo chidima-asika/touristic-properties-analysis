@@ -5,3 +5,4 @@ home_rental_data/Rome/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 home_rental_data/New[[:space:]]Zeland/reviews.cv.gz filter=lfs diff=lfs merge=lfs -text
 home_rental_data/Ireland/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 home_rentals/Ireland/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
+home_rentals/Ireland/* filter=lfs diff=lfs merge=lfs -text
