@@ -7,3 +7,4 @@ home_rental_data/Ireland/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 home_rentals/Ireland/reviews.csv.gz filter=lfs diff=lfs merge=lfs -text
 home_rentals/Ireland/* filter=lfs diff=lfs merge=lfs -text
 home_rentals/Lisbon/* filter=lfs diff=lfs merge=lfs -text
+home_rentals/Rome/* filter=lfs diff=lfs merge=lfs -text
